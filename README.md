@@ -1,4 +1,4 @@
-Public dns
+Public dns (Asia)
 172.104.60.240 (with torrent support and kill 90% ads for free) 
 and
 Torrent/Trackers
