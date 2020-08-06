@@ -16,8 +16,8 @@ Just imagine how much you will save if you use this technology. For example, you
 ----------------------------------------------------------
 Announcements
 
-Maintenance August 4 2020 Asian Time
-Emergency Maintenance August 5 2020 Asian Time
+----------------------------------------------------------
+We filters aws servers due bots spam activities
 ----------------------------------------------------------
 
 -----------------------------------------------------------
