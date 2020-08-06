@@ -22,7 +22,7 @@ We filters aws servers due bots spam activities
 
 -----------------------------------------------------------
 Websites we do not allow by default
-adf.ly and other shorthening link.
+**adf.ly** and other shorthening link.
 Due to potential harm they can cause.
 
 -------------------------------------------------------------
