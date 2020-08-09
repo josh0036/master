@@ -1,4 +1,4 @@
-Public dns (Asia)
+Private dns (Asia)
 172.104.60.240 (with torrent support and kill 90% ADS,DDOS Attacks for free)
 
 Filters Bot spams like IP.clients.your-server.de that has 30K-1M request a day
@@ -15,6 +15,7 @@ Just imagine how much you will save if you use this technology. For example, you
 
 ----------------------------------------------------------
 Announcements
+We change From public dns to private dns due to massive attacks
 
 ----------------------------------------------------------
 We filters aws servers due bots spam activities
